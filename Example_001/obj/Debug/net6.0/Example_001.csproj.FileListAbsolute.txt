@@ -1,0 +1,15 @@
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\bin\Debug\net6.0\Example_001.exe
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\bin\Debug\net6.0\Example_001.deps.json
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\bin\Debug\net6.0\Example_001.runtimeconfig.json
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\bin\Debug\net6.0\Example_001.dll
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\bin\Debug\net6.0\Example_001.pdb
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\obj\Debug\net6.0\Example_001.csproj.AssemblyReference.cache
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\obj\Debug\net6.0\Example_001.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\obj\Debug\net6.0\Example_001.AssemblyInfoInputs.cache
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\obj\Debug\net6.0\Example_001.AssemblyInfo.cs
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\obj\Debug\net6.0\Example_001.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\obj\Debug\net6.0\Example_001.dll
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\obj\Debug\net6.0\refint\Example_001.dll
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\obj\Debug\net6.0\Example_001.pdb
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\obj\Debug\net6.0\Example_001.genruntimeconfig.cache
+E:\GeekBrains\Frontend\VSCode\CSharp\Example_001\obj\Debug\net6.0\ref\Example_001.dll
