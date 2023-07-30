@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GeekBrains\\Frontend\\VSCode\\CSharp\\Example_001\\Example_001.csproj": {}
+    "e:\\GeekBrains\\Frontend\\VSCode\\CSharp\\Example_001\\Example_001.csproj": {}
   },
   "projects": {
-    "E:\\GeekBrains\\Frontend\\VSCode\\CSharp\\Example_001\\Example_001.csproj": {
+    "e:\\GeekBrains\\Frontend\\VSCode\\CSharp\\Example_001\\Example_001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GeekBrains\\Frontend\\VSCode\\CSharp\\Example_001\\Example_001.csproj",
+        "projectUniqueName": "e:\\GeekBrains\\Frontend\\VSCode\\CSharp\\Example_001\\Example_001.csproj",
         "projectName": "Example_001",
-        "projectPath": "E:\\GeekBrains\\Frontend\\VSCode\\CSharp\\Example_001\\Example_001.csproj",
+        "projectPath": "e:\\GeekBrains\\Frontend\\VSCode\\CSharp\\Example_001\\Example_001.csproj",
         "packagesPath": "C:\\Users\\Olvo-PC\\.nuget\\packages\\",
-        "outputPath": "E:\\GeekBrains\\Frontend\\VSCode\\CSharp\\Example_001\\obj\\",
+        "outputPath": "e:\\GeekBrains\\Frontend\\VSCode\\CSharp\\Example_001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Olvo-PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
