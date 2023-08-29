@@ -16,10 +16,10 @@ int[,] array_B = {
 
 int[,] resultMatrix = MultiplyResult(array_A, array_B);
 
-Console.WriteLine("Your 2 random arrays: ");
-Console.WriteLine();
+Console.WriteLine("Array A: ");
 PrintArray(array_A);
 Console.WriteLine();
+Console.WriteLine("Array B: ");
 PrintArray(array_B);
 
 Console.WriteLine();
@@ -28,18 +28,18 @@ Console.WriteLine();
 PrintArray(resultMatrix);
 
 
-int[,] GetArray(int m, int n, int minValue, int maxValue)
-{
-    int[,] result = new int[m, n];
-    for (int i = 0; i < m; i++)
-    {
-        for (int j = 0; j < n; j++)
-        {
-            result[i, j] = new Random().Next(minValue, maxValue + 1);
-        }
-    }
-    return result;
-}
+// int[,] GetArray(int m, int n, int minValue, int maxValue)
+// {
+//     int[,] result = new int[m, n];
+//     for (int i = 0; i < m; i++)
+//     {
+//         for (int j = 0; j < n; j++)
+//         {
+//             result[i, j] = new Random().Next(minValue, maxValue + 1);
+//         }
+//     }
+//     return result;
+// }
 
 void PrintArray(int[,] inArray)
 {
