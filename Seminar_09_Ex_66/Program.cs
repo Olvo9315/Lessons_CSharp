@@ -21,7 +21,6 @@ Console.WriteLine(sum_nums);
 
 int GetSum(int first_n, int last_n)
 {
-    int sum = first_n + last_n;
-    if (first_n >= last_n) return sum - last_n;
-    return sum + GetSum(first_n + 1, last_n - 1);
+    if (first_n == last_n) return last_n;
+    return first_n + GetSum(first_n + 1, last_n);
 }
